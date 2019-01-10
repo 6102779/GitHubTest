@@ -1,4 +1,6 @@
 
 public class caidapao {
-	caidapao;
+	public void caidapaoMethod() {
+		System.out.println("caidapao");
+	}
 }
