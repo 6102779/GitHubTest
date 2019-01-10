@@ -1,8 +1,6 @@
 
 public class master {
-<<<<<<< HEAD
-	public static void main();
-=======
-	caidapaomaster;
->>>>>>> caidapao
+	public static void main( String args[]) {
+		System.out.println("master");
+	}
 }
