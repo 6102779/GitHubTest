@@ -1,4 +1,4 @@
 
 public class master {
-	master;
+	caidapaomaster;
 }
